@@ -1,5 +1,5 @@
 Hi, I'm Brittany!
-I'm currently enrolled in Thaddeus Stevens College of Technology as a CSET Major.
+I'm currently enrolled at Thaddeus Stevens College of Technology as a CSET Major.
 
 I'm hoping to learn and develop skills in JavaScript, HTML, and CSS for starters. However, I'm open to all sorts of programming languages!
 
