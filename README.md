@@ -3,7 +3,7 @@ I'm currently enrolled at Thaddeus Stevens College of Technology as a CSET Major
 
 I'm hoping to learn and develop skills in JavaScript, HTML, and CSS for starters. However, I'm open to all sorts of programming languages!
 
-You can reach me at the email below:
+You can reach me at this email:
 fettsb24@gmail.com
 
 
